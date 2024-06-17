@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm ADITY RAJ</h1>
 <h3 align="center">Certify Java Full Stack Developer</h3>
-<img align="right" alt="coding" width="400" scr="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adity804&label=Profile%20views&color=0e75b6&style=flat" alt="adity804" /> </p>
 
-- 🌱 I’m currently looking for a new job Dynamically-trained Java Full Stack Developer with the skill  **Java, Spring Boot, JDBC, MySQL, SQL, HTML, CSS, JavaScript, React.js, and Git.**
+- 🌱 I’m currently looking for a new job Dynamically-trained Java Full Stack Developer with the skill **Java, Spring Boot, JDBC, MySQL, SQL, HTML, CSS, JavaScript, React.js, and Git.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adity-raj-60985b207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adity-raj-60985b207/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/adityraj804/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/adityraj804/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adity-raj-60985b207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adity-raj-60985b207" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adityraj804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityraj804" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
